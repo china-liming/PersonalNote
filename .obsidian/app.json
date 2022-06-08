@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showFrontmatter": true,
+  "autoConvertHtml": false,
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "legacyEditor": false
+}
