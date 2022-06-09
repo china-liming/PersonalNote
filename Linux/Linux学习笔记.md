@@ -137,7 +137,7 @@ rpm就是"Redhat Package Manager”, 就是红帽安装包管理。rpm包，就�
 ```bash
 ./configure --prefix=/usr/local/glib
 ```
-<Tips> ==要卸载glib库==，命令为：
+==要卸载glib库==，命令为：
 
 ```bash
 make uninstall

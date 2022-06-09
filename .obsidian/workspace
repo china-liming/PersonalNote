@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "杂项/GitHub 学习.md",
+            "file": "个人/思想感悟.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/GitHub 学习.md",
+                "file": "个人/思想感悟.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/GitHub 学习.md"
+                "file": "个人/思想感悟.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "2f90c1359649b67d",
   "lastOpenFiles": [
+    "个人/思想感悟.md",
+    "C语言/C语言函数学习.md",
+    "C语言/C语言学习.md",
+    "C语言/vscode学习笔记.md",
+    "Linux/linux 编程笔记.md",
+    "Linux/Linux学习笔记.md",
     "杂项/GitHub 学习.md",
     "杂项/Obsidian学习笔记.md",
     "杂项/北京.md",
-    "未命名.md",
-    "C语言/C语言函数学习.md",
-    "C语言/C语言学习.md",
-    "Arkime源码学习/Arkime源码学习-writer-simple.c.md",
-    "Arkime源码学习/Capture-design.md",
-    "Arkime源码学习/Arkime源码学习-writers.c.md",
-    "Arkime源码学习/Arkime源码学习-dll.h.md"
+    "未命名.md"
   ]
 }
